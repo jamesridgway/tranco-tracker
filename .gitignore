@@ -1,0 +1,6 @@
+.idea/
+venv/
+.env
+data.sqlite
+output/
+__pycache__/

@@ -1,0 +1,5 @@
+matplotlib
+python-dotenv
+requests
+seaborn
+SQLAlchemy
